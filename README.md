@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeswari-0903
-- 👀 I’m interested in techincal projects
+- 👀 I’m interested in IoT and embedded systems
 - 🌱 I’m currently learning B.Tech-Electronis and communication engineering 
 - 📫 use my mail to reach me rajarajeswari0903@gmail.com
 
