@@ -22,9 +22,11 @@
 - Python (Basics) · C Programming · Embedded C
 
 ### 🔌 Embedded & Hardware
-- ARM Cortex-M (LPC1769) · ESP32  
+- ARM Cortex-M (LPC1769)
+- ESP32  
 - Microcontrollers & Peripherals  
-- Keil IDE · MATLAB  
+- Keil IDE
+- MATLAB  
 - Sensor Interfacing & Communication Protocols  
 
 ### 🌐 IoT & Automation
