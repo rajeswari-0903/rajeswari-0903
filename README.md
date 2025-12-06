@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajavarapu Raja Rajeswari</h1>
 <h3 align="center">Electronics & Communication Engineer | Embedded Systems & IoT Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJESWARI-0903&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -81,22 +77,6 @@
 - 🥇 **Winner – Innovation Contest, VRSEC (2024)**  
 - 🥈 **B Grade – VIKAS 2024, VIT-AP**  
 - 🏅 **Selected for SIH Internal Hackathon – VRSEC**  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJESWARI-0903&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESWARI-0903&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESWARI-0903&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
