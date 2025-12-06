@@ -6,11 +6,11 @@
 ## 🌟 About Me
 
 - 🎓 **B.Tech in Electronics and Communication Engineering**  
-  Velagapudi RamaKrishna Siddhartha Engineering College, Vijayawada  
-  CGPA: **8.02 (Till 6th Sem)**  
+  Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada  
+  CGPA: **8.02**  
 - 💡 Passionate about **Embedded Systems, IoT, DSP, Automation & AI-powered solutions**  
 - 🛠 Experience with **ARM Cortex-M (LPC1769), ESP32, Keil, MATLAB, Arduino & Sensors**  
-- 🔍 Looking for roles in **Embedded Development, IoT Engineering & R&D**  
+- 🔍 Looking for roles in **Embedded Development, IoT Engineering and R&D**  
 - 📫 Reach me at: **rajarajeswari0903@gmail.com**  
 - 🌍 Based in **Vijayawada, India**
 
